@@ -1,4 +1,4 @@
-public class Question1 {
+public class a2013Q1 {
     public static void main ( String [] args ){
         int inum =11;
         double dnum =3.7;
